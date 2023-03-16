@@ -1,0 +1,32 @@
+li {
+    display: block;
+    font-family: sans-serif;
+    font-weight: 300;
+    box-sizing: border-box;
+}
+ul li {
+    margin: 1.5% 1.5%;
+}
+ul li a {
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}
+span {
+    font-weight: 600;
+    size: 60px;
+}
+ul li a i {
+    font-size: 20px;
+    margin-right: 10px;
+}
+ul li a:hover {
+    letter-spacing: 5px;
+    background-color: darkgrey;
+    color :white ;
+}
+#title {
+    transition: 0;
+    padding:0 ;
+    border-radius: 0;
+}
